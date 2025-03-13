@@ -15,8 +15,11 @@ This project is a Python implementation of the classic dice game Yahtzee for Com
 **Unit Testing:** Ensures correct functionality of game logic and helper functions.
 ### 📂 Project Structure
 ```yahtzee.py```– Main game logic, handling turns, dice rolling, and scoring.
+
 ```yahtzeeHelper.py``` – Helper functions for dice rolling, scorecard initialization, and printing outputs.
+
 ```yahtzeeUnitTests.py``` – Unit tests to validate scoring calculations, dice rolls, and game mechanics.
+
 ```README.md``` – Project documentation.
 ### 🎮 How to Play
 1. Run the script using Python:
