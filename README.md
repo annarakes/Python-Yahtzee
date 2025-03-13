@@ -1,5 +1,4 @@
-# Python Yahtzee Project
-🎲 Yahtzee Game - Python Implementation
+# 🎲 Yahtzee Game - Python Implementation
 ## 📜 Description
 This project is a Python implementation of the classic dice game Yahtzee for my Computer Science 1 class at Elon University. It includes game logic, helper functions, and unit tests to ensure accurate gameplay. The game allows players to roll dice, select scoring categories, and try to achieve the highest possible score according to Yahtzee rules.
 
