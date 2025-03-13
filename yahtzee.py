@@ -280,15 +280,6 @@ def calculateCategoryScore(scorecard,choice,roll_list):
     return scorecard
 
 
-############################################################################
-############################################################################
-############################################################################
-#                   DO NOT WRITE CODE BELOW THIS POINT                     #
-############################################################################
-############################################################################
-############################################################################
-
-
 # The function takeTurn simulates one turn for a player
 # It has one input parameter, the current scorecard for the player
 # It returns the updated scorecard after their turn
