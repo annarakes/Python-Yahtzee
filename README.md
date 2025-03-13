@@ -4,15 +4,15 @@
 This project is a Python implementation of the classic dice game Yahtzee for Computer Science 1 at Elon University developed by Anna Rakes. It includes game logic, helper functions, and unit tests to ensure accurate gameplay. The game allows players to roll dice, select scoring categories, and try to achieve the highest possible score according to Yahtzee rules.
 
 ### 🚀 Features
-**🎲 Rolling Dice:** Players can roll and reroll up to three times per turn.
+**Rolling Dice:** Players can roll and reroll up to three times per turn.
 
-**📊 Scorecard Management:** Tracks scores for all 13 Yahtzee categories.
+**Scorecard Management:** Tracks scores for all 13 Yahtzee categories.
 
-**🔢 Scoring Calculation:** Implements logic for full house, straights, of-a-kind, and other Yahtzee categories.
+**Scoring Calculation:** Implements logic for full house, straights, of-a-kind, and other Yahtzee categories.
 
-**🏆 Game Flow Management:** Handles the complete game cycle from start to finish.
+**Game Flow Management:** Handles the complete game cycle from start to finish.
 
-**✅ Unit Testing:** Ensures correct functionality of game logic and helper functions.
+**Unit Testing:** Ensures correct functionality of game logic and helper functions.
 ### 📂 Project Structure
 ```yahtzee.py```– Main game logic, handling turns, dice rolling, and scoring.
 ```yahtzeeHelper.py``` – Helper functions for dice rolling, scorecard initialization, and printing outputs.
